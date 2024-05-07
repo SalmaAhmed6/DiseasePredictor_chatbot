@@ -10,3 +10,7 @@ The Disease Prediction Chatbot is an intelligent assistant designed to help user
   
 - **Doctor Recommendation**: The chatbot can recommend medical specialists or doctors who specialize in treating the predicted disease, helping users find appropriate healthcare professionals.
 
+
+
+https://github.com/SalmaAhmed6/DiseasePredictor_chatbot/assets/153770479/040e5178-63fd-42e1-aef3-6449b82e8f4c
+
