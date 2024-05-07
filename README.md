@@ -10,16 +10,3 @@ The Disease Prediction Chatbot is an intelligent assistant designed to help user
   
 - **Doctor Recommendation**: The chatbot can recommend medical specialists or doctors who specialize in treating the predicted disease, helping users find appropriate healthcare professionals.
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- pip (Python package installer)
-
-### Installation
-
-```bash
-git clone https://github.com/your_username/disease-prediction-chatbot.git
-cd disease-prediction-chatbot
-pip install -r requirements.txt
